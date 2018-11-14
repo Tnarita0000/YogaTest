@@ -1,4 +1,4 @@
-package com.yogatest;
+package com.awesomeproject;
 
 import android.app.Application;
 
